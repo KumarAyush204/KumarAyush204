@@ -19,7 +19,7 @@
 <h1 align="center">😎 Skills</h1>
 
 <div align="left" style="display:block"  border="0">
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJoeDdkd2Exc2pudW1kZW85Y2l4Z3RrMmpmMmoyMDk0dmd4dXRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0c76uoxSycijC1hPh/giphy.gif">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJoeDdkd2Exc2pudW1kZW85Y2l4Z3RrMmpmMmoyMDk0dmd4dXRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0c76uoxSycijC1hPh/giphy.gif" width="300" hieght="400">
 <table border="0">
 <tr>
 <td width="50%">
