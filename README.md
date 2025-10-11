@@ -48,3 +48,6 @@
 </tr>
 </table>
 </div>
+
+### Badges
+[![An image of @kumarayush204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumarayush204)](https://holopin.io/@kumarayush204)
