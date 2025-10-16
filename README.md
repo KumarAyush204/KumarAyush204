@@ -59,12 +59,14 @@
 </table>
 </div>
 
+
+
+
+### Badges
+[![An image of @kumarayush204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumarayush204)](https://holopin.io/@kumarayush204)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph.svg">
 </picture>
-
-
-### Badges
-[![An image of @kumarayush204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumarayush204)](https://holopin.io/@kumarayush204)
