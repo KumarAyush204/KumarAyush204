@@ -1,7 +1,6 @@
+<div align="center">
 
-
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate Full Stack Developer and Devops Enthusiast</h3>
+# Hi there, I'm Ayush! 👋
 <div align="center">
   <a href="https://www.linkedin.com/in/kumar-ayush-75248a205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,59 +13,85 @@
   </a>
 </div>
 
-<h1 align="center">😎 About Me</h1>
+### About Me
+I'm a passionate **Full Stack Developer** with a keen interest in **DevOps**. I love building robust and scalable applications, and I'm always eager to learn new technologies and improve my skills.
 
-<div align="left">
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhwcDhmODVsaTR3NmtjbWMxMDdsYXl2Yml4MXo4bzl3bDF3ajcxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="400" />
-<p>👨🏻‍💻 Pursuing MCA</p>
-<p>👨🏻‍💻 Proficient in Python, JavaScript, ExpressJS, NodeJS, MongoDB and SQL.</p>
-<p>👨🏻‍💻 Competent in Docker, Github Actions and Jenkins.</p>
-<p>👨🏻‍💻 Learning AWS.</p>
-</div>
-<br clear="right"/>
 <br>
 
-<h1 align="center">😎 Skills</h1>
+### 🛠️ Skills
 
-<div align="left" style="display:block"  border="0">
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJoeDdkd2Exc2pudW1kZW85Y2l4Z3RrMmpmMmoyMDk0dmd4dXRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0c76uoxSycijC1hPh/giphy.gif" width="200" hieght="400">
-<table border="0">
-<tr>
-<td width="50%">
-
-### Programming Languages
+**Programming Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Frontend Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python" />
+  </a>
 </p>
 
-### Frontend Technologies
+**Frontend Development:**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,ejs" alt="Frontend Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css" />
+  </a>
 </p>
 
-### Backend & Database
+**Backend Development:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,flask" alt="Backend Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
 </p>
 
-### Tools & Platforms
+**Frameworks:**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,jenkins" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
 </p>
 
-</td>
-</tr>
-</table>
-</div>
+**Tools & DevOps:**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins" />
+  </a>
+</p>
 
+**Databases:**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  </a>
+</p>
 
+<br>
 
+### 📊 GitHub Stats
 
-### Badges
-[![An image of @kumarayush204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumarayush204)](https://holopin.io/@kumarayush204)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarayush204&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
+</p>
+
+<br>
+
+### 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=kumarayush204&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ayush's GitHub Trophies" />
+</p>
+
+<br>
+
+###  Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+
+### 📜Badges
+[![An image of @kumarayush204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumarayush204)](https://holopin.io/@kumarayush204)
+
+
