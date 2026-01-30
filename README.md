@@ -9,7 +9,7 @@
 ---
 
 ### 💻 About Me
-I am a **Backend Developer** with a deep interest in **DevOps**. I specialize in building high-performance server-side applications and streamlining deployment workflows through automation. 
+I am a **Full Stack Developer** with a deep interest in **DevOps**. I specialize in building high-performance server-side applications and streamlining deployment workflows through automation. 
 
 - 🌍 **Portfolio:** [Visit My Website](https://portfolio-rho-seven-liptn8y13u.vercel.app/)
 - 🔭 **Current Project:** Building scalable microservices & CI/CD pipelines.
