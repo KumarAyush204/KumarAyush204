@@ -12,9 +12,7 @@
 I am a **Full Stack Developer** specializing in **scalable B2B SaaS platforms** and **applied GenAI solutions**. I focus on architecting robust backend systems, automating CI/CD pipelines, and integrating AI to modernize business workflows. 
 
 - 💼 **Current Role:** Full Stack Developer at MintMelon Business Consulting.
-- 🔭 **Currently Building:** Multi-tenant architectures (Easy Auth) & AI-powered data pipelines (Procure AI) using RAG.
-- 🚀 **Passion:** Improving developer experience, cloud architecture, and contributing to open-source.
-
+- 🚀 **Passion:** I get a kick out of owning the whole process—from sketching out a database schema to watching a containerized app go live. I build software that simply works and makes life easier for the people using it.
 ---
 
 ### 🌟 Open Source Journey
