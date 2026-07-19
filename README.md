@@ -9,11 +9,11 @@
 ---
 
 ### 💻 About Me
-I am a **Full Stack Developer** with a deep interest in **DevOps**. I specialize in building high-performance server-side applications and streamlining deployment workflows through automation. 
+I am a **Full Stack Developer** specializing in **scalable B2B SaaS platforms** and **applied GenAI solutions**. I focus on architecting robust backend systems, automating CI/CD pipelines, and integrating AI to modernize business workflows. 
 
-- 🌍 **Portfolio:** [Visit My Website](https://portfolio-rho-seven-liptn8y13u.vercel.app/)
-- 🔭 **Current Project:** Building scalable microservices & CI/CD pipelines.
-- 🚀 **Passion:** Contributing to open-source and improving Developer Experience.
+- 💼 **Current Role:** Full Stack Developer at MintMelon Business Consulting.
+- 🔭 **Currently Building:** Multi-tenant architectures (Easy Auth) & AI-powered data pipelines (Procure AI) using RAG.
+- 🚀 **Passion:** Improving developer experience, cloud architecture, and contributing to open-source.
 
 ---
 
@@ -31,8 +31,13 @@ I enjoy giving back to the community and have participated in several global pro
 ---
 
 ### 🛠️ Technical Skills
+
+**Languages & AI:** JavaScript, Python, LangChain, RAG
+**Frontend & Backend:** React.js, Node.js, Express.js, FastAPI
+**Databases & DevOps:** PostgreSQL, MongoDB, ChromaDB, Docker, AWS, CI/CD, Git, Linux
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,aws,kubernetes,linux,git,github,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,express,fastapi,postgres,mongodb,docker,aws,linux,git,github" />
 </p>
 
 ---
@@ -55,6 +60,3 @@ I enjoy giving back to the community and have participated in several global pro
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KumarAyush204/KumarAyush204/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
----
-
