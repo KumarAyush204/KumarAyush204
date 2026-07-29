@@ -19,7 +19,7 @@ I am a **Full Stack Developer** specializing in **scalable B2B SaaS platforms** 
 I enjoy giving back to the community and have participated in several global programs:
 
 * **GSSoC (GirlScript Summer of Code):** Open Source Contributor, working on diverse web and backend projects.
-- **Hacktoberfest:** Successfully completed multiple years, contributing high-quality PRs to various repositories.
+- **Hacktoberfest:** Successfully completed Hacktoberfest 2025, contributing high-quality PRs to various repositories.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-9333ea?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
